@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pizzaHub/static/css/main.8ce2f308.css",
+    "main.js": "/pizzaHub/static/js/main.eaca8618.js",
+    "static/media/pizza_banner1.jpg": "/pizzaHub/static/media/pizza_banner1.ca7deebc9ef3d1ae6187.jpg",
+    "static/media/bg.jpg": "/pizzaHub/static/media/bg.38f4b3510c1c2bf3df46.jpg",
+    "static/media/cheese_and_tomato.png": "/pizzaHub/static/media/cheese_and_tomato.1f2185224651f56a4f37.png",
+    "static/media/pizza.jpg": "/pizzaHub/static/media/pizza.0a62753ac1e2b6209c31.jpg",
+    "static/media/VEG LOADED PIZZA.jpg": "/pizzaHub/static/media/VEG LOADED PIZZA.1936d1442cc0f17776f9.jpg",
+    "static/media/Pepper_Barbeque_&_Onion.jpg": "/pizzaHub/static/media/Pepper_Barbeque_&_Onion.9fcb7ec0ed5b283cde3c.jpg",
+    "static/media/Paneer_Makhni.jpg": "/pizzaHub/static/media/Paneer_Makhni.accdc4a7f0fea80e2cc8.jpg",
+    "static/media/IndianTandooriPaneer.jpg": "/pizzaHub/static/media/IndianTandooriPaneer.b95654770075d4b39757.jpg",
+    "static/media/CapsicumVeg.jpg": "/pizzaHub/static/media/CapsicumVeg.9e94718facb3848ed6dc.jpg",
+    "static/media/Be Strong regular.otf": "/pizzaHub/static/media/Be Strong regular.ca76803fc7cca60d3b54.otf",
+    "index.html": "/pizzaHub/index.html",
+    "main.8ce2f308.css.map": "/pizzaHub/static/css/main.8ce2f308.css.map",
+    "main.eaca8618.js.map": "/pizzaHub/static/js/main.eaca8618.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce2f308.css",
+    "static/js/main.eaca8618.js"
+  ]
+}
